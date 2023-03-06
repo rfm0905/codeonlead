@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rfm0905.github.io/codeonlead/static/css/main.20a11b53.css",
+    "main.js": "/rfm0905.github.io/codeonlead/static/js/main.89c09378.js",
+    "index.html": "/rfm0905.github.io/codeonlead/index.html",
+    "main.20a11b53.css.map": "/rfm0905.github.io/codeonlead/static/css/main.20a11b53.css.map",
+    "main.89c09378.js.map": "/rfm0905.github.io/codeonlead/static/js/main.89c09378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a11b53.css",
+    "static/js/main.89c09378.js"
+  ]
+}
